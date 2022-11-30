@@ -6,3 +6,5 @@ function
 howtouse
 howtocontribute
 howtooperate
+how
+to
